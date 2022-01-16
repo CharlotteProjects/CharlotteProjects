@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Cheng Kwok Leung, Charlotte Studio is my development name.
+- 👋 Hi, I’m Cheng Kwok Leung, A Game Developer at Hong Kong
+- Charlotte Studio is my development name.
 - 👀 I’m interested in Creating Game & Electronic Device.
 - 🌱 I’m currently learning Live2D, Unity3D & Arduino & ESP32/8266
 - 💞️ I’m looking to collaborate on New techology about Creating Game & Electronic Device.
